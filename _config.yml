@@ -1,9 +1,9 @@
 ## Site settings
 # title, shows up in browser title bar
-title: Your First Pull Request
+title: About Mahi
 # description shows up in site meta data, for search engines
 description: |
-  Your First PR helps you get started contributing to Open Source by showcasing great starter issues on Github and elsewhere.
+  Heyyaa Here is something About me
 
 # baseurl is used to format links in jekyll
 baseurl: ""
@@ -17,9 +17,9 @@ name: Your First PR
 
 ## default site author info
 # author is the name below posts
-author: James Spencer
+author: Mahi Thakkar
 # author-url links this name to another page, twitter etc
-author-url: https://twitter.com/varjmes
+author-url: https://www.instagram.com/mahi.thakkar__/
 
 ## this prevents jekyll from building pages that are not website pages, but repo only pages
 exclude: ["README.md", "CODEOFCONDUCT.md"]
